@@ -1,0 +1,25 @@
+body {
+	background-color: gray;
+	color: white;
+	border: 1px black solid;
+	margin: 40px;
+	padding: 40px;
+}
+
+header {
+	font-style: italic;
+	text-align: center;
+}
+
+a {
+	color: #6ACC9C;
+	font-style: normal;
+}
+
+ul {
+	list-style-type: square;
+}
+
+footer {
+	text-align: center;
+}
